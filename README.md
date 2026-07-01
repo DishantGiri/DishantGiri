@@ -60,7 +60,6 @@ I build modern web applications with strong backend systems and responsive front
 | **Project Two** | Responsive frontend app built with React/Next.js |
 | **Project Three** | Backend system using Spring Boot and database integration |
 
-> *(Replace with your real projects later)*
 
 ---
 
